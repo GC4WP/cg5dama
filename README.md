@@ -1,6 +1,14 @@
 # cg5dama
 好中文🍏第五期 作业薄
 
+42小队:
+
+- [wangh0117](https://github.com/wangh0117)
+- [chenxiaoban](https://github.com/chenxiaoban)
+- [Yibenzhengjing003](https://github.com/Yibenzhengjing003)
+- [ZoomQuiet](https://github.com/ZoomQuiet)
+
+
 ## 和合技
 > 小考...
 
